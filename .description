@@ -1,7 +1,7 @@
 ---
 title: "Visitekaartje"              # Same as repo name but with spaces and caps
 client: "FDND"                      # Name of the client for this task
-description: "Je maakt een voorbeeld visitekaartje na gebruikt daarbij semantische HTML, CSS voor de opmaak en Javascript voor functionaliteit."                     # Max. 280 characters in description
+description: "Je maakt op basis van het voorbeeld een eigen visitekaartje. Dit doe je door de bestaande inhoud in HTML, de opmaak in CSS en de functionaliteit in Javascript aan te passen en naar je had te zetten."                     # Max. 280 characters in description
 semester: 1                         # Please choose only one semester
 sprint: 1                           # Please choose only one sprint
 support-level: 2                    # 1:example 2:duplicate 3:experiment 4:extension 5:autonomous
