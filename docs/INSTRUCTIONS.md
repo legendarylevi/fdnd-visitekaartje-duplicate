@@ -64,7 +64,9 @@ Voor het uitvoeren van deze taak nemen we een aantal stappen, we gaan:
 3. jouw visitekaartje publiceren via Github pages
 4. het visitekaartje testen op klasgenoten
 5. het proces documenteren in de [README.md](../README.md)
+
 ---
+
 ### Ontwerpen
 *In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
 
@@ -82,7 +84,9 @@ Bepaal tenslotte een titel en een korte introductietekst voor je visitekaartje. 
 Normaliter neem je bovenstaande ontwerpbeslissingen en ontwerp je het visitekaartje in een tool als [https://www.figma.com/](https://www.figma.com/). Omdat we een *duplicate* taak uitvoeren houden we het bij een schets: schets met potlood, fineliner en een shader het visitekaartje. Je kunt het kant-en-klare visitekaartje van de *example* leertaak gebruiken. Schets het visitekaartje na en noteer jouw ontwerpbeslissingen.
 
 Na bovenstaande stappen zorgvuldig doorlopen te hebben weet je precies wat je gaat bouwen. Je kunt nu goed voorbereid door naar de volgende fase.
+
 ---
+
 ### Bouwen
 *In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
 
@@ -116,7 +120,9 @@ Op regel 13 staat ```color: #10214e```, deze regel legt de normale tekstkleur va
 Zoek het bestand verder door en zet alle ```background``` en ```color``` declaraties naar jouw hand.
 
 NB: In het bestand wordt ook de stijl bepaald van twee SVG afbeeldingen. De declaraties die hier voor gebruikt worden zijn ```stroke``` en ```fill```. Als je het tof vindt kan je ook die kleuren aanpassen aan jouw kleurenpalet!
+
 ---
+
 ### Integreren
 *In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
 
@@ -135,12 +141,16 @@ Selecteer bij *Source* de **Master** branch in plaats van *None*  en klik op Sav
 Als het goed is gegaan kan je binnen enkele momenten jouw visitekaartje bekijken via de URL: [https://username.github.io/fdnd-net-presence-duplicate/](https://username.github.io/fdnd-net-presence-duplicate/).
 
 Bekijk jouw visitekaartje even uitgebreid, ga daarna verder met de volgende fase.
+
 ---
+
 ### Testen
 *In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
 
 Laat jouw visitekaartje testen door een paar klasgenoten en jouw docent. Noteer wat ze er van vinden. Ben je tevreden met het resultaat? Zo niet herhaal dan bovenstaande stappen.
+
 ---
+
 </details>
 
 ## Criteria
