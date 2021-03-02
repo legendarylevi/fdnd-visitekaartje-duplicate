@@ -2,7 +2,7 @@
 
 ![Visitekaartje](VisitekaartjeDuplicate.jpg "Visitekaartje")
 
-# Net Presence
+# Visitekaartje
 Je maakt op basis van het voorbeeld een eigen visitekaartje. Dit doe je door de bestaande inhoud in HTML, de opmaak in CSS en/of de functionaliteit in Javascript aan te passen en naar je hand te zetten.
 
 ## Context
