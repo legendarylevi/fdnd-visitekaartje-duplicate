@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://tasks.fdnd.nl/global.css">
+
 ![Visitekaartje](VisitekaartjeDuplicate.jpg "Visitekaartje")
 
 # Net Presence
