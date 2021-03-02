@@ -50,7 +50,7 @@ Hieronder vind je een aantal bronnen die je kunt gebruiken bij het maken van ont
 </details>
 
 ## Werkwijze
-Volg onderstaand stappenplan binnen de [**development-lifecycle**]()[NOG LINKEN] om jouw visitekaartje gestructureerd te herontwerpen, aan te passen en op Github te publiceren.
+Volg onderstaand stappenplan binnen de [**development-lifecycle**]() [nog linken] om jouw visitekaartje gestructureerd te herontwerpen, aan te passen en op Github te publiceren.
 
 <details>
 <summary>Stappenplan</summary>
