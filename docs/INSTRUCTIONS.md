@@ -14,8 +14,9 @@ Maak een visitekaartje op basis van [het voorbeeld](https://github.com/fdnd-task
 ## Doel van deze opdracht
 Na het volgen van deze opdracht heb je, voor het eerst bij [FNDN](https://fdnd.nl), zelf een visitekaartje gemaakt. Je hebt hiervoor een aantal eigen ontwerpbeslissingen gemaakt en HTML (voor de structuur), CSS (voor de vormgeving) en Javascript (voor de interactie) gebruikt om het ontwerp te implementeren. Tot slot heb je jouw visitekaartje gepubliceerd via GitHub pages en met een aantal klasgenoten getest of het werkt zoals je bedoelde.
 
-
-## Materiaal
+<details>
+<summary>## Materiaal</summary>
+  
 Hieronder vind je een aantal bronnen die je kunt gebruiken bij het maken van ontwerpbeslissingen en het implementeren van jouw ontwerp.
 
 ### Kleur en beeld
@@ -45,6 +46,7 @@ Hieronder vind je een aantal bronnen die je kunt gebruiken bij het maken van ont
 - [Creating a Github pages site @ Github](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
 - [How To Publish Your HTML With Github Pages @ Github](https://anilemrah.medium.com/how-to-publish-your-html-with-github-pages-8f3f854e7d4)
 - [https://coolors.co/](https://coolors.co/)
+</details>
 
 ## Werkwijze
 Volg onderstaand stappenplan binnen de development-lifecycle om jouw visitekaartje gestructureerd te herontwerpen, aan te passen en op Github te publiceren.
