@@ -3,7 +3,7 @@
 ![Visitekaartje](VisitekaartjeDuplicate.jpg "Visitekaartje")
 
 # Visitekaartje
-Je maakt op basis van het voorbeeld een eigen visitekaartje. Dit doe je door de bestaande inhoud in HTML, de opmaak in CSS en/of de functionaliteit in Javascript aan te passen en naar je hand te zetten.
+Je maakt op basis van het voorbeeld een eigen visitekaartje. Dit doe je door de bestaande inhoud in _HTML_, de opmaak in _CSS_ en/of de functionaliteit in _JavaScript_ aan te passen en naar je hand te zetten.
 
 ## Context
 Elke frontender bij [FNDN](https://fdnd.nl) stelt zichzelf binnen de tribe voor door middel van een visitekaartje. Als het goed is heb je al naar een voorbeeld van *Jane Doe* gekeken. Als je dat nog niet hebt gedaan is het handig [het voorbeeld](https://github.com/fdnd-task/fdnd-net-presence-example) even te bestuderen voor je verder gaat. Bij deze leertaak doorloop je alle stappen van de development-lifecycle met als resultaat een eigen visitekaartje, gepubliceerd via Github pages.
