@@ -18,7 +18,7 @@ Na het volgen van deze opdracht heb je, voor het eerst bij [FNDN](https://fdnd.n
 Hieronder vind je een aantal bronnen die je kunt gebruiken bij het maken van ontwerpbeslissingen en het implementeren van jouw ontwerp.
 
 <details>
-<summary>Bekijk bronnen</summary>
+<summary>Bronnen</summary>
   
 ### Kleur en beeld
 - [The psychology of color in web design @ 99designs](https://en.99designs.nl/blog/creative-inspiration/psychology-color-web-design/)
@@ -52,6 +52,9 @@ Hieronder vind je een aantal bronnen die je kunt gebruiken bij het maken van ont
 ## Werkwijze
 Volg onderstaand stappenplan binnen de development-lifecycle om jouw visitekaartje gestructureerd te herontwerpen, aan te passen en op Github te publiceren.
 
+<details>
+<summary>Stappen binnen de development-lifecycle van deze taak</summary>
+
 ### Analyseren
 *In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.* 
 
@@ -74,7 +77,6 @@ Bepaal nu of je een afbeelding op jouw visitekaartje wilt opnemen. Wordt het een
 Bepaal welk(e) lettertype(n) je wilt gebruiken. Maak een lijstje met vijf lettertypes die je mooi vindt, kies deze via [https://fonts.google.com/](https://fonts.google.com/).  Je weet nog niet hoe het lettertype combineert met jouw afbeelding en de kleuren dus het is fijn als je een paar opties hebt.
 
 Bepaal tenslotte een titel en een korte introductietekst voor je visitekaartje. De titel is de rol die je jezelf toebedeelt op internet, het kan serieus maar ook grappig zijn. Bedenk hoe je wilt overkomen op bezoekers van jouw visitekaartje. De introductietekst bevat een kort motto. Wat vind jij belangrijk?
-
 
 
 Normaliter neem je bovenstaande ontwerpbeslissingen en ontwerp je het visitekaartje in een tool als [https://www.figma.com/](https://www.figma.com/). Omdat we een *duplicate* taak uitvoeren houden we het bij een schets: schets met potlood, fineliner en een shader het visitekaartje. Je kunt het kant-en-klare visitekaartje van de *example* leertaak gebruiken. Schets het visitekaartje na en noteer jouw ontwerpbeslissingen.
@@ -138,6 +140,7 @@ Bekijk jouw visitekaartje even uitgebreid, ga daarna verder met de volgende fase
 *In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
 
 Laat jouw visitekaartje testen door een paar klasgenoten en jouw docent. Noteer wat ze er van vinden. Ben je tevreden met het resultaat? Zo niet herhaal dan bovenstaande stappen.
+</details>
 
 ## Criteria
 Je bent klaar als je jouw proces (ontwerpbeslissingen, schetsen, inzichten en testresultaten) hebt gedocumenteerd in de [README.md](../README.md) in jouw *fork* van deze repository. Ook moet jouw visitekaartje bereikbaar zijn via gh-pages.
