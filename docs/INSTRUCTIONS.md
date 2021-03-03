@@ -46,7 +46,7 @@ Hieronder vind je een aantal bronnen die je kunt gebruiken bij het maken van ont
 - [Chrome Dev Tools Elements Tab @ YouTube](https://www.youtube.com/watch?v=Z3HGJsNLQ1E)
 - [Creating a Github pages site @ Github](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
 - [How To Publish Your HTML With Github Pages @ Github](https://anilemrah.medium.com/how-to-publish-your-html-with-github-pages-8f3f854e7d4)
-- [https://coolors.co/](https://coolors.co/)
+- [Adobe Color](https://color.adobe.com/)
 </details>
 
 ## Werkwijze
@@ -72,18 +72,17 @@ Voor het uitvoeren van deze taak nemen we een aantal stappen, we gaan:
 
 Je hebt een talk bijgewoond en/of bovenstaande artikelen over [kleur en beeld](#kleur-en-beeld) gelezen. Om straks op een goede manier te werk te kunnen gaan is het handig om eerst te inventariseren welke uitgangspunten je wilt gebruiken voor het ontwerpen en ontwikkelen van jouw eigen visitekaartje. 
 
-Begin met het vastleggen van de kleur(en) die je wilt gaan gebruiken. Beschrijf daarbij waarom juist die kleur(en). Wat wil je uitstralen? Met welk gevoel bekijken mensen jouw online visitekaartje? Leg een kleurenschema vast via [https://coolors.co/](https://coolors.co/)
+Pak een A4 en maak een schets volgens het template. Bedenk welke elementen iets over jou zeggen en die je in jouw visitekaartje wilt verwerken, bijvoorbeeld je naam, je dromen, je ambitie, je kwaliteiten, je skills of je passie.
+
+Begin met het vastleggen van de kleur(en) die je wilt gaan gebruiken. Beschrijf daarbij waarom juist die kleur(en). Kies je lievelingskleur en maak aan de hand daarvan een kleurenschema via [Adobe Color](https://color.adobe.com/).
 
 Bepaal nu of je een afbeelding op jouw visitekaartje wilt opnemen. Wordt het een échte foto of een avatar? Of een foto waarin je iets minder herkenbaar in beeld komt? Welk beeld moeten bezoekers van jou hebben na het bekijken van jouw online visitekaartje?
 
-Bepaal welk(e) lettertype(n) je wilt gebruiken. Maak een lijstje met vijf lettertypes die je mooi vindt, kies deze via [https://fonts.google.com/](https://fonts.google.com/).  Je weet nog niet hoe het lettertype combineert met jouw afbeelding en de kleuren dus het is fijn als je een paar opties hebt.
+Bepaal welk(e) lettertype(n) je wilt gebruiken. Maak een lijstje met vijf lettertypes die passen bij jouw persoonlijkheid, kies deze via [https://fonts.google.com/](https://fonts.google.com/).  Je weet nog niet hoe het lettertype combineert met jouw afbeelding en de kleuren dus het is fijn als je een paar opties hebt.
 
 Bepaal tenslotte een titel en een korte introductietekst voor je visitekaartje. De titel is de rol die je jezelf toebedeelt op internet, het kan serieus maar ook grappig zijn. Bedenk hoe je wilt overkomen op bezoekers van jouw visitekaartje. De introductietekst bevat een kort motto. Wat vind jij belangrijk?
 
-
-Normaliter neem je bovenstaande ontwerpbeslissingen en ontwerp je het visitekaartje in een tool als [https://www.figma.com/](https://www.figma.com/). Omdat we een *duplicate* taak uitvoeren houden we het bij een schets: schets met potlood, fineliner en een shader het visitekaartje. Je kunt het kant-en-klare visitekaartje van de *example* leertaak gebruiken. Schets het visitekaartje na en noteer jouw ontwerpbeslissingen.
-
-Na bovenstaande stappen zorgvuldig doorlopen te hebben weet je precies wat je gaat bouwen. Je kunt nu goed voorbereid door naar de volgende fase.
+Na bovenstaande stappen zorgvuldig doorlopen te hebben weet je ongeveer wat je gaat bouwen. Je kunt nu goed voorbereid door naar de volgende fase.
 
 ---
 
@@ -120,6 +119,9 @@ Op regel 13 staat ```color: #10214e```, deze regel legt de normale tekstkleur va
 Zoek het bestand verder door en zet alle ```background``` en ```color``` declaraties naar jouw hand.
 
 NB: In het bestand wordt ook de stijl bepaald van twee SVG afbeeldingen. De declaraties die hier voor gebruikt worden zijn ```stroke``` en ```fill```. Als je het tof vindt kan je ook die kleuren aanpassen aan jouw kleurenpalet!
+
+#### Variaties
+Maak aan de hand van jouw schets, jouw kleurenschema en jouw gekozen lettertypes 10 variaties op jouw visitekaartje. Doe dat door de stappen bij CSS hierboven meerdere malen te doorlopen. Maak elke keer een schermafdruk (screenshot) van de verschillende versies. Kies uiteindelijk die versie die het beste bij jouw uitgangspunten past.
 
 ---
 
