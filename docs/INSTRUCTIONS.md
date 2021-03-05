@@ -6,9 +6,17 @@
 Je maakt op basis van het voorbeeld een eigen visitekaartje. Dit doe je door de bestaande inhoud in _HTML_, de opmaak in _CSS_ en/of de functionaliteit in _JavaScript_ aan te passen en naar je hand te zetten.
 
 ## Context
-Elke frontender bij [FDND](https://fdnd.nl) stelt zichzelf binnen de tribe voor door middel van een visitekaartje. Als het goed is heb je al naar een voorbeeld van *Jane Doe* gekeken. Als je dat nog niet hebt gedaan is het handig [het voorbeeld](https://github.com/fdnd-task/fdnd-net-presence-example) even te bestuderen voor je verder gaat. Bij deze leertaak doorloop je alle stappen van de development-lifecycle met als resultaat een eigen visitekaartje, gepubliceerd via Github pages.
+
+*In de context staat bij welke sprint deze leertaak hoort en welk niveau de leertaak heeft. *
+
+Leertaak: Maak op basis van het voorbeeld een eigen visitekaartje. Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een imitatietaak.
 
 ## Briefing
+
+*In de briefing staat wat de opdracht is en wat de opdrachtgever wil*
+
+Elke frontender bij [FDND](https://fdnd.nl) stelt zichzelf binnen de tribe voor door middel van een visitekaartje. Als het goed is heb je al naar een voorbeeld van *Jane Doe* gekeken. Als je dat nog niet hebt gedaan is het handig [het voorbeeld](https://github.com/fdnd-task/fdnd-net-presence-example) even te bestuderen voor je verder gaat. Bij deze leertaak doorloop je alle stappen van de development-lifecycle met als resultaat een eigen visitekaartje, gepubliceerd via Github pages.
+
 Maak een visitekaartje op basis van [het voorbeeld](https://github.com/fdnd-task/fdnd-net-presence-example) en publiceer dat via Github pages.
 
 ## Doel van deze opdracht
