@@ -20,13 +20,19 @@ Hieronder vind je een aantal bronnen die je kunt gebruiken bij het maken van ont
 <details>
 <summary>Bronnen</summary>
   
-### Kleur en beeld
+### Kleur
 - [The psychology of color in web design @ 99designs](https://en.99designs.nl/blog/creative-inspiration/psychology-color-web-design/)
 - [Web design color theory @ TNW](https://thenextweb.com/dd/2015/04/07/how-to-create-the-right-emotions-with-color-in-web-design/)
+
+### (Gebruik van) beeld en iconen
 - [How to use images more effectively in web design @ CreativeBloq](https://www.creativebloq.com/inspiration/how-to-use-images-more-effectively-in-web-design)
-- [Unsplash](https://unsplash.com/)
-- [Typography for Developers @ CSS-tricks](https://css-tricks.com/typography-for-developers/)
 - [Icons in web design @ Medium](https://medium.com/outcrowd/icons-in-web-design-824f57cb2db0)
+- [Unsplash](https://unsplash.com/)
+
+### Typografie
+- [Choosing and Using Web Fonts] (https://www.linkedin.com/learning/choosing-and-using-web-fonts/welcome?u=2132228)
+- [Typography for Developers @ CSS-tricks](https://css-tricks.com/typography-for-developers/)
+
 
 ### HyperText Markup Language (HTML)
 - [HTML semantics @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
