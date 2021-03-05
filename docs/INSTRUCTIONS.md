@@ -29,7 +29,7 @@ Over kleur, hoe te kiezen en toe te passen:
 ### (Gebruik van) beeld en iconen
 - [How to use images more effectively in web design @ CreativeBloq](https://www.creativebloq.com/inspiration/how-to-use-images-more-effectively-in-web-design)
 - [Icons in web design @ Medium](https://medium.com/outcrowd/icons-in-web-design-824f57cb2db0)
-- [Unsplash](https://unsplash.com/)
+- [Unsplash: een website met rechtenvrije beelden](https://unsplash.com/)
 
 ### Typografie
 
