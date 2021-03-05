@@ -30,7 +30,9 @@ Hieronder vind je een aantal bronnen die je kunt gebruiken bij het maken van ont
 - [Unsplash](https://unsplash.com/)
 
 ### Typografie
-- [Choosing and Using Web Fonts] (https://www.linkedin.com/learning/choosing-and-using-web-fonts/welcome?u=2132228)
+
+Over typografie, hoe te kiezen en te gebruiken:
+- [Choosing and Using Web Fonts](https://www.linkedin.com/learning/choosing-and-using-web-fonts/welcome?u=2132228)
 - [Typography for Developers @ CSS-tricks](https://css-tricks.com/typography-for-developers/)
 
 
