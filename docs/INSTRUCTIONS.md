@@ -20,7 +20,9 @@ Hieronder vind je een aantal bronnen die je kunt gebruiken bij het maken van ont
 <details>
 <summary>Bronnen</summary>
   
-### Kleur
+### Over Kleur
+Over kleur, hoe te kiezen en toe te passen:
+- [Color: Theory and trends: uit LinkedInLearning cursus 'Design Aesthetics for the Web'](https://www.linkedin.com/learning/design-aesthetics-for-the-web/color-theory-and-trends?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56e050fb3dd5598244f16b21&u=2132228)
 - [The psychology of color in web design @ 99designs](https://en.99designs.nl/blog/creative-inspiration/psychology-color-web-design/)
 - [Web design color theory @ TNW](https://thenextweb.com/dd/2015/04/07/how-to-create-the-right-emotions-with-color-in-web-design/)
 
