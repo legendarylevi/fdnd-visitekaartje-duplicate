@@ -86,14 +86,14 @@ footer h2 {
 section h2 svg,
 footer h2 svg {
     position:absolute;
-    right:-1rem;
+    right:-.75rem;
     bottom:10px;
-    width:1rem;
+    width:.75rem;
     transform:scaleX(-1);
 }
 footer h2 svg {
     right:0;
-    bottom:-1rem;
+    bottom:-.75rem;
     transform:scale(1, -1) ;
 
 }
