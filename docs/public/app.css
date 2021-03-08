@@ -4,6 +4,17 @@ html {
 body {
     padding:1rem;
 }
+svg {
+
+}
+ svg path {
+    fill:var(--secondary);
+    stroke:none
+ }
+ svg rect {
+    fill:var(--highlight-secondary);
+    stroke:none
+ }
 header {
     position: relative;
 }
@@ -27,11 +38,14 @@ nav {
     display:flex;
     align-items:center;
 }
+nav strong {
+    font-weight:normal;
+}
 nav ul {
     display:flex;
     list-style:none;
     margin: 0 0 0 .5rem;
-    background: var(--highlight-primary);
+    background: var(--highlight-secondary);
     border-radius: var(--radius);
     align-items:center;
     padding-left:0 !important;
@@ -39,7 +53,8 @@ nav ul {
 }
 nav ul li {
     margin-right:.5rem;
-    padding:.25rem .5rem
+    padding:.25rem .5rem;
+    font-weight:bold;
 }
 nav ul li a {
     color:var(--secondary)
@@ -66,6 +81,24 @@ footer h2 {
     background: var(--highlight-secondary);
     border-radius: var(--radius);
 }
+section h2 svg,
+footer h2 svg {
+    position:absolute;
+    right:-1rem;
+    bottom:10px;
+    width:1rem;
+    transform:scaleX(-1);
+}
+footer h2 svg {
+    right:0;
+    bottom:-1rem;
+    transform:scale(1, -1) ;
+
+}
+footer h2 svg rect {
+    fill:var(--highlight-primary)
+}
+
 section:first-of-type h2 {
     width:85%;
 }
@@ -76,7 +109,8 @@ section section > h3 + p {
     margin-bottom: 1rem;
 }
 section section h3 + p {
-    color:var(--highlight-primary);
+    color:var(--primary);
+    font-size: .85em;
     padding:0;
 }
 section section {
@@ -141,28 +175,25 @@ footer h2 {
     left:calc(-30% + 1rem);
     border-radius: var(--radius) 0 0  var(--radius) 
 }
-footer > a {
+
+footer a {
     color:var(--secondary);
     text-decoration: underline;
     display:block;
-    margin-top: 1rem;
 }
-footer ul a {
-    color:var(--highlight-secondary);
-    text-decoration: underline;
-}
+
 footer a:hover,
 footer ul a:hover {
     text-decoration: none;
 }
 footer dl,
 footer ul{
-    background-color:var(--secondary);
+    border:2px solid var(--secondary);
     border-radius:var(--radius);
     padding:1rem;
     position: relative;
     margin:0;
-    color:var(--highlight-secondary)
+    color:var(--secondary)
 }
 footer ul {
     padding-left:1rem !important;
@@ -182,21 +213,28 @@ footer ul:last-of-type {
     flex-direction: row;
     flex-wrap: wrap;
 }
-footer ul:last-of-type li,
-footer ul li.active {
+footer ul:last-of-type li, 
+    footer > a{
     margin:.5rem 0 0 .5rem;
     padding:.25rem;
-    color:var(--secondary);
+    color:var(--primary);
     border-radius:calc(var(--radius) / 2);
-    background-color:var(--highlight-secondary);
+    background-color:var(--secondary);
 }
 footer ul li.active {
-    margin:0;
-}
-footer ul li.active a {
-    color: var(--secondary)
+    font-weight: bold;
 }
 
+footer > a {
+    margin-top: 1rem;
+    padding:.25rem .5rem;;
+    float:left;
+    text-decoration: none;
+}
+footer > a:hover {
+    background-color: var(--primary);
+    color:var(--secondary   )
+}
 @media (min-width:40em) {
     body {
         display:grid;
