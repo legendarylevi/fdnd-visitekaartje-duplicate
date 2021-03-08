@@ -26,11 +26,13 @@ h1 strong {
     position:absolute;
     top:-1.5rem;
     right:1rem;
-    background: var(--highlight-secondary);
+    background: var(--highlight-primary);
     border-radius: var(--radius);
     font-size: 1rem;
     font-weight:normal;
-    padding:.25rem .5rem
+    padding:.25rem .5rem;
+    color:var(--secondary);
+    font-weight: bold;
 }
 nav {
     position: absolute;
@@ -216,7 +218,7 @@ footer ul:last-of-type {
 footer ul:last-of-type li, 
     footer > a{
     margin:.5rem 0 0 .5rem;
-    padding:.25rem;
+    padding:.25rem .5rem;
     color:var(--primary);
     border-radius:calc(var(--radius) / 2);
     background-color:var(--secondary);
@@ -227,7 +229,6 @@ footer ul li.active {
 
 footer > a {
     margin-top: 1rem;
-    padding:.25rem .5rem;;
     float:left;
     text-decoration: none;
 }
