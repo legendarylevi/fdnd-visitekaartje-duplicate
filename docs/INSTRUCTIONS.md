@@ -76,7 +76,7 @@ Volg onderstaand stappenplan binnen de [**development-lifecycle**]() _[nog linke
 <summary>Stappenplan</summary>
 
 ### Analyseren
-*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.* 
+*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren en formuleer je een aantal uitgangspunten waar je ontwerp aan moet voldoen.* 
 
 Voor het uitvoeren van deze taak nemen we een aantal stappen, we gaan:
 1. een aantal ontwerpbeslissingen nemen op basis van de uitleg
@@ -88,11 +88,13 @@ Voor het uitvoeren van deze taak nemen we een aantal stappen, we gaan:
 ---
 
 ### Ontwerpen
-*In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
+*In de ontwerpfase maak je meerdere ontwerpen (divergeren) en neem je vervolgens beslissingen (convergeren) op basis van de door jou geformuleerde uitgangspunten. Je zorgt je dat je precies weet wat je moet gaan bouwen.*
 
 Je hebt een talk bijgewoond en/of bovenstaande artikelen over [kleur en beeld](#kleur-en-beeld) gelezen. Om straks op een goede manier te werk te kunnen gaan is het handig om eerst te inventariseren welke uitgangspunten je wilt gebruiken voor het ontwerpen en ontwikkelen van jouw eigen visitekaartje. 
 
-Pak een A4 en maak een schets volgens het template. Bedenk welke elementen iets over jou zeggen en die je in jouw visitekaartje wilt verwerken, bijvoorbeeld je naam, je dromen, je ambitie, je kwaliteiten, je skills of je passie.
+Pak een A4 en maak een aantal schetsen aan de hand van het template. Bedenk welke elementen iets over jou zeggen en die je in jouw visitekaartje wilt verwerken, bijvoorbeeld je naam, je dromen, je ambitie, je kwaliteiten, je skills of je passie.
+Maak verschillende variaties waarbij je de elementen steeds anders positioneert. 
+Bekijk welke compositie jij het meest vindt passen bij wat je over jezelf wil vertellen.
 
 Begin met het vastleggen van de kleur(en) die je wilt gaan gebruiken. Beschrijf daarbij waarom juist die kleur(en). Kies je lievelingskleur en maak aan de hand daarvan een kleurenschema via [Adobe Color](https://color.adobe.com/).
 
