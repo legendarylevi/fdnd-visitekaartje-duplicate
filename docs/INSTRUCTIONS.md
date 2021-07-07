@@ -9,7 +9,7 @@ Je maakt op basis van het voorbeeld een eigen visitekaartje. Dit doe je door de 
 
 _In de context staat bij welke sprint deze leertaak hoort en welk niveau de leertaak heeft._
 
-Leertaak: Maak op basis van het voorbeeld een eigen visitekaartje. Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een imitatietaak.
+Leertaak: Maak op basis van het voorbeeld een eigen visitekaartje. Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een _duplicate_ taak.
 
 ## Briefing
 
