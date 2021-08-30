@@ -1,2 +1,1 @@
 > Fork deze leertaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-# Visitekaartje {naam student} 
