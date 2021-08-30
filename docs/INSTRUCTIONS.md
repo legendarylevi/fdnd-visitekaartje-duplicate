@@ -178,6 +178,5 @@ Laat jouw visitekaartje testen door een paar klasgenoten en jouw docent. Noteer 
 </details>
 
 ## Criteria
-Je bent klaar als je jouw proces (ontwerpbeslissingen, schetsen, inzichten en testresultaten) hebt gedocumenteerd in de [README.md](../README.md) in jouw *fork* van deze repository. Ook moet jouw visitekaartje bereikbaar zijn via gh-pages.
 
-
+Je bent klaar als je deze opdracht hebt nagemaakt met jouw eigen gegevens.
