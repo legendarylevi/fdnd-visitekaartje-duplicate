@@ -15,9 +15,9 @@ Leertaak: Maak op basis van het voorbeeld een eigen visitekaartje. Deze leertaak
 
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil*
 
-Elke frontender bij [FDND](https://fdnd.nl) stelt zichzelf binnen de tribe voor door middel van een visitekaartje. Als het goed is heb je al naar een voorbeeld van *Jane Doe* gekeken. Als je dat nog niet hebt gedaan is het handig [het voorbeeld](https://github.com/fdnd-task/fdnd-net-presence-example) even te bestuderen voor je verder gaat. Bij deze leertaak doorloop je alle stappen van de development-lifecycle met als resultaat een eigen visitekaartje, gepubliceerd via Github pages.
+Elke frontender bij [FDND](https://fdnd.nl) stelt zichzelf binnen de tribe voor door middel van een visitekaartje. Als het goed is heb je al naar een voorbeeld van *Jane Doe* gekeken. Als je dat nog niet hebt gedaan is het handig [het voorbeeld](https://github.com/fdnd-task/fdnd-visitekaartje-example) even te bestuderen voor je verder gaat. Bij deze leertaak doorloop je alle stappen van de development-lifecycle met als resultaat een eigen visitekaartje, gepubliceerd via Github pages.
 
-Maak een visitekaartje op basis van [het voorbeeld](https://github.com/fdnd-task/fdnd-net-presence-example) en publiceer dat via Github pages.
+Maak een visitekaartje op basis van [het voorbeeld](https://github.com/fdnd-task/fdnd-visitekaartje-example) en publiceer dat via Github pages.
 
 ## Doel van deze leertaak
 *Wat leer je in deze taak*
@@ -152,9 +152,9 @@ Maak aan de hand van jouw schets, jouw kleurenschema en jouw gekozen lettertypes
 
 Je gaat jouw aanpassing op het visitekaartje publiceren op internet! Dat klinkt lastig maar is heel eenvoudig met Github pages (gh-pages).
 
-Bovenin het scherm van Github zie je *Code*, *Issues*, *Pull requests*, *Actions* etc.. Helemaal aan het eind staat *Settings*, klik op Settings om naar de instellingen van deze repository te gaan. (Het kan zijn dat je op de ... moet klikken voor je settings ziet)
+Bovenin het scherm van Github zie je *Code*, *Issues*, *Pull requests*, *Actions* etc.. Helemaal aan het eind staat *Settings*, klik op Settings om naar de instellingen van deze repository te gaan. (Het kan zijn dat je op de ... moet klikken voor je settings ziet).
 
-Scroll helemaal naar beneden, vlak boven *Danger Zone* staat het kopje **Github Pages** en dat is precies waar wij naar op zoek zijn. Als het goed is zie je hetzelfde als in onderstaande screenshot:
+Klik in het linkermenu op *Pages*. Als het goed is zie je hetzelfde als in onderstaande screenshot:
 
 ![Github Pages](./gh-pages1.png)
 
@@ -162,7 +162,7 @@ Selecteer bij *Source* de **Master** branch in plaats van *None*  en klik op Sav
 
 ![Github Pages](./gh-pages2.png)
 
-Als het goed is gegaan kan je binnen enkele momenten jouw visitekaartje bekijken via de URL: [https://username.github.io/fdnd-net-presence-duplicate/](https://username.github.io/fdnd-net-presence-duplicate/).
+Als het goed is gegaan kan je binnen enkele momenten jouw visitekaartje bekijken via de URL: [https://username.github.io/fdnd-visitekaartje-duplicate/](https://username.github.io/fdnd-visitekaartje-duplicate/).
 
 Bekijk jouw visitekaartje even uitgebreid, ga daarna verder met de volgende fase.
 
