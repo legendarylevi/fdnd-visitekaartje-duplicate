@@ -83,11 +83,14 @@ Over typografie, hoe te kiezen en te gebruiken:
 ### Bouwen
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
 
-Op basis van je ontwerpschets ga je bedenken hoe je je ontwerp in code kan bouwen. Je zet je project op in Github en kopieert de repository naar jouw computer. Je begint met de content in HTML, voegt CSS toe voor de vormgeving en JS voor de interactie. 
+Op basis van je ontwerpschets ga je de HTML, CSS en JS van het visitekaartje van deze taak aanpassen. Fork deze _repository_ naar je eigen Github account en download de code naar jouw computer. Je begint met de content in HTML, voegt CSS toe voor de vormgeving en JS voor de interactie. 
 
 
 <details>
 <summary>Aanpak</summary>
+  
+#### Forken en Downloaden
+  
 
 #### HTML
   
