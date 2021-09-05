@@ -147,110 +147,54 @@ De interactie op de pagina wordt bepaald door Javascript (JS). Neem de tijd voor
 </details>
 
 ### Integreren
-*In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
+
+In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.
+
+Je gaat jouw aanpassing op het visitekaartje publiceren op internet! Dat klinkt lastig maar is heel eenvoudig met behulp van Github pages (gh-pages).
+
 
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. Bovenin het scherm van Github zie je *Code*, *Issues*, *Pull requests*, *Actions* etc.. Helemaal aan het eind staat *Settings*, klik op Settings om naar de instellingen van deze repository te gaan. (Het kan zijn dat je op de ... moet klikken voor je settings ziet).
+2. Klik in het linkermenu op *Pages*. Als het goed is zie je hetzelfde als in onderstaande screenshot:
+
+![Github Pages](./gh-pages1.png)
+  
+  
+3. Selecteer bij *Source* de **Master** branch in plaats van *None*  en klik op Save:
+
+![Github Pages](./gh-pages2.png)
+  
+ 4. Als het goed is gegaan kan je binnen enkele momenten jouw visitekaartje bekijken via de URL: [https://username.github.io/fdnd-visitekaartje-duplicate/](https://username.github.io/fdnd-visitekaartje-duplicate/).
+
+Bekijk jouw visitekaartje even uitgebreid, ga daarna verder met de volgende fase.
+  
+
 
 #### Materiaal integratiefase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-### Testen
-*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal testfase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-
-
-
-
-
-
-
-
-
-MATERIAAL 
-
-
-
-
-### Tools
 
 - [Creating a Github pages site @ Github](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
 - [How To Publish Your HTML With Github Pages @ Github](https://anilemrah.medium.com/how-to-publish-your-html-with-github-pages-8f3f854e7d4)
 
+</details>
 
 
+### Testen
+In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.
+
+
+
+<details>
+<summary>Aanpak</summary>
+
+1. Laat jouw visitekaartje testen door een paar klasgenoten en jouw docent. Noteer wat ze er van vinden. Ben je tevreden met het resultaat? Zo niet herhaal dan bovenstaande stappen.
 
 </details>
 
 
 
 
-WERKWIJZE
-
-
-
-
-### Bouwen
-*In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
-
-
-
-
-
-
----
-
-### Integreren
-*In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
-
-Je gaat jouw aanpassing op het visitekaartje publiceren op internet! Dat klinkt lastig maar is heel eenvoudig met Github pages (gh-pages).
-
-Bovenin het scherm van Github zie je *Code*, *Issues*, *Pull requests*, *Actions* etc.. Helemaal aan het eind staat *Settings*, klik op Settings om naar de instellingen van deze repository te gaan. (Het kan zijn dat je op de ... moet klikken voor je settings ziet).
-
-Klik in het linkermenu op *Pages*. Als het goed is zie je hetzelfde als in onderstaande screenshot:
-
-![Github Pages](./gh-pages1.png)
-
-Selecteer bij *Source* de **Master** branch in plaats van *None*  en klik op Save:
-
-![Github Pages](./gh-pages2.png)
-
-Als het goed is gegaan kan je binnen enkele momenten jouw visitekaartje bekijken via de URL: [https://username.github.io/fdnd-visitekaartje-duplicate/](https://username.github.io/fdnd-visitekaartje-duplicate/).
-
-Bekijk jouw visitekaartje even uitgebreid, ga daarna verder met de volgende fase.
-
----
-
-### Testen
-*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
-
-Laat jouw visitekaartje testen door een paar klasgenoten en jouw docent. Noteer wat ze er van vinden. Ben je tevreden met het resultaat? Zo niet herhaal dan bovenstaande stappen.
-
----
 
 
 ## Criteria
