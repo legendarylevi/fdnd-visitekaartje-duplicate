@@ -172,7 +172,7 @@ Je gaat jouw aanpassing op het visitekaartje publiceren op internet! Dat klinkt 
 ![Github Pages](./gh-pages1.png)
   
   
-  10. Selecteer bij *Source* de **Master** branch in plaats van *None*  en klik op Save:
+  10. Selecteer bij *Source* de **Master branch** en klik op Save:
 
 ![Github Pages](./gh-pages2.png)
   
