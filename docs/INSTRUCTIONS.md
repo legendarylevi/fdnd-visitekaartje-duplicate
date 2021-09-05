@@ -103,10 +103,11 @@ Alle inhoud van een webpagina wordt vastgelegd in HTML. Neem de tijd voor deze s
 - [Overzicht van HTML elementen @ MDN](https://developer.mozilla.org/nl/docs/Web/HTML/Element)
 
 
-#### 2. (CSS)
+#### CSS
   
-Alle kleuren in een webpagina (achtergrond, tekst, randen, schaduwen etc) worden vastgelegd in CSS. Neem de tijd voor deze stap en zorg dat je het CSS bestand begrijpt. 
+De vormgeving van een webpagina worden vastgelegd in CSS, zoals de layout, achtergrondkleur, tekstkleur en grootte, randen, schaduwen etc). Neem de tijd voor deze stap en zorg dat je het CSS bestand begrijpt. 
 
+  0. Kun je zien op welke regel in het HTML document het CSS document wordt gekoppeld?
   1. Open het ```/styles/style.css``` bestand in een editor. 
   2. Op regel 24 en 25 wordt de achtergrondkleur vastgelegd in de regels:
 ```
@@ -119,7 +120,7 @@ background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
   4. Zoek het bestand verder door en zet alle ```background``` en ```color``` declaraties naar jouw hand.
   5. In het bestand wordt ook de stijl bepaald van twee SVG afbeeldingen. De declaraties die hier voor gebruikt worden zijn ```stroke``` en ```fill```. Als je het tof vindt kan je ook die kleuren aanpassen aan jouw kleurenpalet!
 
-#### Materiaal bouwfase (CSS)
+#### Materiaal bouwfase CSS
 - [CSS Almanac @ CSS-tricks](https://css-tricks.com/almanac/)
 - [A Guide to flexbox @ CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [What the flexbox? @ Wes Bos](https://flexbox.io/)
@@ -127,10 +128,11 @@ background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
 - [CSS Transitions and Animations 101 @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
 
 
-#### 3. JS
+#### JS
   
-De interactie op de pagina wordt bepaald door Javascript (JS). Neem de tijd voor deze stap en zorg dat je het JS bestand begrijpt. Als je nog nooit iets met JSS zelf hebbt gedaan, bekijk dan met een klasgenoot de code, misschien kan hij of zij je uitleggen wat er gebeurt. 
+De interactie op de pagina wordt bepaald door Javascript (JS). Neem de tijd voor deze stap en zorg dat je het JS bestand begrijpt. Als je nog nooit iets met JSS zelf hebt gedaan, bekijk dan met een klasgenoot de code, misschien kan hij of zij je uitleggen wat er gebeurt. 
 
+  0. Kun je zien op welke regel in het HTML document het JS document wordt gekoppeld?
   1. Open het ```/script/script.js``` bestand in een editor. 
   2. Schrijf achter elke regel wat die doet.
   3. Heb je zelf ook een interactie bedacht voor je visitekaartje? Hoe zou je dat kunnen maken?
@@ -138,7 +140,7 @@ De interactie op de pagina wordt bepaald door Javascript (JS). Neem de tijd voor
 #### Materiaal bouwfase JS
 
 - [One thing about JavaScript @ CSS-tricks](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
-
+- [Chrome Dev Tools Elements Tab @ YouTube](https://www.youtube.com/watch?v=Z3HGJsNLQ1E)
 
 </details>
 
@@ -189,19 +191,17 @@ De interactie op de pagina wordt bepaald door Javascript (JS). Neem de tijd voor
 
 MATERIAAL 
 
-Hieronder vind je een aantal bronnen die je kunt gebruiken bij het maken van ontwerpbeslissingen en het implementeren van jouw ontwerp.
-
-<details>
-<summary>Bronnen</summary>
-  
 
 
 
 ### Tools
-- [Chrome Dev Tools Elements Tab @ YouTube](https://www.youtube.com/watch?v=Z3HGJsNLQ1E)
+
 - [Creating a Github pages site @ Github](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
 - [How To Publish Your HTML With Github Pages @ Github](https://anilemrah.medium.com/how-to-publish-your-html-with-github-pages-8f3f854e7d4)
-- [Adobe Color](https://color.adobe.com/)
+
+
+
+
 </details>
 
 
@@ -217,38 +217,6 @@ WERKWIJZE
 
 
 
-#### Materiaal bouwfase
-
-Workstation
-  - [Github](https://github.com)
-  - [Github Desktop](https://desktop.github.com)
-  - [Visual Studio Code](https://code.visualstudio.com)
-  
-Kleur en beeld
-- [The psychology of color in web design @ 99designs](https://en.99designs.nl/blog/creative-inspiration/psychology-color-web-design/)
-- [Web design color theory @ TNW](https://thenextweb.com/dd/2015/04/07/how-to-create-the-right-emotions-with-color-in-web-design/)
-- [How to use images more effectively in web design @ CreativeBloq](https://www.creativebloq.com/inspiration/how-to-use-images-more-effectively-in-web-design)
-- [Unsplash](https://unsplash.com/)
-- [Typography for Developers @ CSS-tricks](https://css-tricks.com/typography-for-developers/)
-- [Icons in web design @ Medium](https://medium.com/outcrowd/icons-in-web-design-824f57cb2db0)
-  
-HyperText Markup Language (HTML)
-- [HTML semantics @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
-- [Overzicht van HTML elementen @ MDN](https://developer.mozilla.org/nl/docs/Web/HTML/Element)
-  
-Cascading StyleSheets (CSS)
-- [CSS Almanac @ CSS-tricks](https://css-tricks.com/almanac/)
-- [A Guide to flexbox @ CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [What the flexbox? @ Wes Bos](https://flexbox.io/)
-- [CSS Typography - Change Font, Size, Spacing & more @ YouTube](https://www.youtube.com/watch?v=RNakAX3rVVw)
-- [CSS Transitions and Animations 101 @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
-
-Javascript (JS)
-- [One thing about JavaScript @ CSS-tricks](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
-
-Tools
-- [Chrome Dev Tools Elements Tab @ YouTube](https://www.youtube.com/watch?v=Z3HGJsNLQ1E)
-  
 
 
 
