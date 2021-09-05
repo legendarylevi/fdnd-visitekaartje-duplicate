@@ -166,22 +166,19 @@ Je gaat jouw aanpassing op het visitekaartje publiceren op internet! Dat klinkt 
   5. Schrijf zo nodig ook een beschrijving waarin je kan uitleggen wat er is veranderd en waarom. Dit is vooral handig als je met meer mensen samen werkt. 
   6. _Commit_ je code aan je lokale _repository_, klik op [Commit to Master]
   7. Nu kan je je code naar de online repository_ op Github uploaden, klik op [Push origin]
-  
-  
-  
-1. Bovenin het scherm van Github zie je *Code*, *Issues*, *Pull requests*, *Actions* etc.. Helemaal aan het eind staat *Settings*, klik op Settings om naar de instellingen van deze repository te gaan. (Het kan zijn dat je op de ... moet klikken voor je settings ziet).
-2. Klik in het linkermenu op *Pages*. Als het goed is zie je hetzelfde als in onderstaande screenshot:
+  8. Nu kun je je website publiceren. Selecteer Setting van je online _repository_ om naar de instellingen te gaan. 
+  9. Klik in het linkermenu op *Pages*. Als het goed is zie je hetzelfde als in onderstaande screenshot:
 
 ![Github Pages](./gh-pages1.png)
   
   
-3. Selecteer bij *Source* de **Master** branch in plaats van *None*  en klik op Save:
+  10. Selecteer bij *Source* de **Master** branch in plaats van *None*  en klik op Save:
 
 ![Github Pages](./gh-pages2.png)
   
- 4. Als het goed is gegaan kan je binnen enkele momenten jouw visitekaartje bekijken via de URL: [https://username.github.io/fdnd-visitekaartje-duplicate/](https://username.github.io/fdnd-visitekaartje-duplicate/).
+  11. Als het goed is gegaan kan je binnen enkele momenten jouw visitekaartje bekijken via de URL: [https://username.github.io/fdnd-visitekaartje-duplicate/](https://username.github.io/fdnd-visitekaartje-duplicate/).
 
-Bekijk jouw visitekaartje even uitgebreid, ga daarna verder met de volgende fase.
+  12. Bekijk jouw visitekaartje even uitgebreid, ga daarna verder met de volgende fase.
   
 
 
