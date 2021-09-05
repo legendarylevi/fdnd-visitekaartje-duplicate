@@ -1,30 +1,39 @@
-<link rel="stylesheet" href="https://tasks.fdnd.nl/global.css">
 
 ![Visitekaartje](VisitekaartjeDuplicate.jpg "Visitekaartje")
 
 # Visitekaartje
-Je maakt op basis van het voorbeeld een eigen visitekaartje. Dit doe je door de bestaande inhoud in _HTML_, de opmaak in _CSS_ en/of de functionaliteit in _JavaScript_ aan te passen en naar je hand te zetten.
-
+Je maakt op basis van het voorbeeld een eigen visitekaartje. Dit doe je door de bestaande inhoud in _HTML_, de opmaak in _CSS_ en/of de functionaliteit in _JS_ aan te passen en naar je hand te zetten.
 ## Context
-
-_In de context staat bij welke sprint deze leertaak hoort en welk niveau de leertaak heeft._
 
 Leertaak: Maak op basis van het voorbeeld een eigen visitekaartje. Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een _duplicate_ taak.
 
+
 ## Briefing
 
-*In de briefing staat wat de opdracht is en wat de opdrachtgever wil*
-
-Elke frontender bij [FDND](https://fdnd.nl) stelt zichzelf binnen de tribe voor door middel van een visitekaartje. Als het goed is heb je al naar een voorbeeld van *Jane Doe* gekeken. Als je dat nog niet hebt gedaan is het handig [het voorbeeld](https://github.com/fdnd-task/fdnd-visitekaartje-example) even te bestuderen voor je verder gaat. Bij deze leertaak doorloop je alle stappen van de development-lifecycle met als resultaat een eigen visitekaartje, gepubliceerd via Github pages.
+Elke frontender bij [FDND](https://fdnd.nl) stelt zichzelf binnen de tribe voor door middel van een visitekaartje. 
 
 Maak een visitekaartje op basis van [het voorbeeld](https://github.com/fdnd-task/fdnd-visitekaartje-example) en publiceer dat via Github pages.
 
+
 ## Doel van deze leertaak
-*Wat leer je in deze taak*
 
-Na het volgen van deze leertaak heb je, voor het eerst bij [FDND](https://fdnd.nl), zelf een visitekaartje gemaakt. Je hebt hiervoor een aantal eigen ontwerpbeslissingen gemaakt en HTML (voor de structuur), CSS (voor de vormgeving) en Javascript (voor de interactie) gebruikt om het ontwerp te implementeren. Tot slot heb je jouw visitekaartje gepubliceerd via GitHub pages en met een aantal klasgenoten getest of het werkt zoals je bedoelde.
+Na het volgen van deze leertaak heb je zelf een visitekaartje gemaakt. Je hebt hiervoor een aantal eigen ontwerpbeslissingen gemaakt en HTML (voor de structuur), CSS (voor de vormgeving) en JS (voor de interactie) gebruikt om het ontwerp te bouwen. Tot slot heb je jouw visitekaartje gepubliceerd via GitHub pages en met een aantal klasgenoten getest of het werkt zoals je bedoelde.
 
-## Materiaal
+
+
+## Werkwijze
+
+Volg onderstaand stappenplan binnen de [**development-lifecycle**]() _[nog linken]_ om jouw visitekaartje gestructureerd te herontwerpen, aan te passen en op Github te publiceren.
+
+Als het goed is heb je al naar een voorbeeld van *Jane Doe* gekeken. Als je dat nog niet hebt gedaan is het handig [het voorbeeld](https://github.com/fdnd-task/fdnd-visitekaartje-example) even te bestuderen voor je verder gaat. Bij deze leertaak doorloop je alle stappen van de development-lifecycle met als resultaat een eigen visitekaartje, gepubliceerd via Github pages.
+
+
+
+
+
+
+MATERIAAL 
+
 Hieronder vind je een aantal bronnen die je kunt gebruiken bij het maken van ontwerpbeslissingen en het implementeren van jouw ontwerp.
 
 <details>
@@ -69,11 +78,12 @@ Over typografie, hoe te kiezen en te gebruiken:
 - [Adobe Color](https://color.adobe.com/)
 </details>
 
-## Werkwijze
-Volg onderstaand stappenplan binnen de [**development-lifecycle**]() _[nog linken]_ om jouw visitekaartje gestructureerd te herontwerpen, aan te passen en op Github te publiceren.
 
-<details>
-<summary>Stappenplan</summary>
+
+
+WERKWIJZE
+
+
 
 ### Analyseren
 *In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren en formuleer je een aantal uitgangspunten waar je ontwerp aan moet voldoen.* 
@@ -145,6 +155,41 @@ NB: In het bestand wordt ook de stijl bepaald van twee SVG afbeeldingen. De decl
 #### Variaties
 Maak aan de hand van jouw schets, jouw kleurenschema en jouw gekozen lettertypes 10 variaties op jouw visitekaartje. Doe dat door de stappen bij CSS hierboven meerdere malen te doorlopen. Maak elke keer een schermafdruk (screenshot) van de verschillende versies. Kies uiteindelijk die versie die het beste bij jouw uitgangspunten past.
 
+#### Materiaal bouwfase
+
+Workstation
+  - [Github](https://github.com)
+  - [Github Desktop](https://desktop.github.com)
+  - [Visual Studio Code](https://code.visualstudio.com)
+  
+Kleur en beeld
+- [The psychology of color in web design @ 99designs](https://en.99designs.nl/blog/creative-inspiration/psychology-color-web-design/)
+- [Web design color theory @ TNW](https://thenextweb.com/dd/2015/04/07/how-to-create-the-right-emotions-with-color-in-web-design/)
+- [How to use images more effectively in web design @ CreativeBloq](https://www.creativebloq.com/inspiration/how-to-use-images-more-effectively-in-web-design)
+- [Unsplash](https://unsplash.com/)
+- [Typography for Developers @ CSS-tricks](https://css-tricks.com/typography-for-developers/)
+- [Icons in web design @ Medium](https://medium.com/outcrowd/icons-in-web-design-824f57cb2db0)
+  
+HyperText Markup Language (HTML)
+- [HTML semantics @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
+- [Overzicht van HTML elementen @ MDN](https://developer.mozilla.org/nl/docs/Web/HTML/Element)
+  
+Cascading StyleSheets (CSS)
+- [CSS Almanac @ CSS-tricks](https://css-tricks.com/almanac/)
+- [A Guide to flexbox @ CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [What the flexbox? @ Wes Bos](https://flexbox.io/)
+- [CSS Typography - Change Font, Size, Spacing & more @ YouTube](https://www.youtube.com/watch?v=RNakAX3rVVw)
+- [CSS Transitions and Animations 101 @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
+
+Javascript (JS)
+- [One thing about JavaScript @ CSS-tricks](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
+
+Tools
+- [Chrome Dev Tools Elements Tab @ YouTube](https://www.youtube.com/watch?v=Z3HGJsNLQ1E)
+  
+
+
+
 ---
 
 ### Integreren
@@ -175,7 +220,6 @@ Laat jouw visitekaartje testen door een paar klasgenoten en jouw docent. Noteer 
 
 ---
 
-</details>
 
 ## Criteria
 
