@@ -150,12 +150,22 @@ De interactie op de pagina wordt bepaald door Javascript (JS). Neem de tijd voor
 
 In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.
 
-Je gaat jouw aanpassing op het visitekaartje publiceren op internet! Dat klinkt lastig maar is heel eenvoudig met behulp van Github pages (gh-pages).
+Je gaat jouw aanpassing op het visitekaartje publiceren op internet! Dat klinkt lastig maar is heel eenvoudig met behulp van Github en Github pages (gh-pages). Eerst ga je je nieuwe code toevoegen aan je lokale _repository_ zodat Github weet wat de nieuwste versie is. Daarna ga je de wijzigingen doorvoeren op de _repository_ op Github. Tot slot ga je je opdracht publiceren met behulp van Github Pages. 
 
 
 <details>
 <summary>Aanpak</summary>
 
+  1. Open de Github-Desktop App 
+  2. Browse naar de repo van deze opdracht FDND-visitekaartje-duplicate
+  3. Hier zie je alle wijzigingen die je hebt gemaakt [changes].
+  4. Schrijf een titel waaraan je goed kan zien wat je hebt gewijzigd (dit is verplicht)
+  5. Schrijf zo nodig ook een beschrijving waarin je kan uitleggen wat er is veranderd en waarom. Dit is vooral handig als je met meer mensen samen werkt. 
+  6. _Commit_ je code aan je lokale _repository_, klik op [Commit to Master]
+  7. Nu kan je je code naar de online repository_ op Github uploaden, klik op [Push origin]
+  
+  
+  
 1. Bovenin het scherm van Github zie je *Code*, *Issues*, *Pull requests*, *Actions* etc.. Helemaal aan het eind staat *Settings*, klik op Settings om naar de instellingen van deze repository te gaan. (Het kan zijn dat je op de ... moet klikken voor je settings ziet).
 2. Klik in het linkermenu op *Pages*. Als het goed is zie je hetzelfde als in onderstaande screenshot:
 
