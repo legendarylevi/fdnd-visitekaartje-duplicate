@@ -28,6 +28,161 @@ Volg onderstaand stappenplan binnen de [**development-lifecycle**]() _[nog linke
 Als het goed is heb je al naar een voorbeeld van *Jane Doe* gekeken. Als je dat nog niet hebt gedaan is het handig [het voorbeeld](https://github.com/fdnd-task/fdnd-visitekaartje-example) even te bestuderen voor je verder gaat. Bij deze leertaak doorloop je alle stappen van de development-lifecycle met als resultaat een eigen visitekaartje, gepubliceerd via Github pages.
 
 
+### Analyseren
+
+In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren en formuleer je een aantal uitgangspunten waar je ontwerp aan moet voldoen.
+
+<details>
+<summary>Aanpak</summary>
+
+1. Lees de instructies van deze leertaak zorgvuldig door.
+2. Bekijk de verschillende fases van de Development Lifecycle en wat je per stap gaat doen.
+3. Bespreek wat je aan werk verwacht en maak aantekening. (wat komt je bekend voor, wat heb je al vaker gedaan of wat lijkt je lastig)
+
+</details>
+
+### Ontwerpen
+
+Bij de start van de ontwerpfase weet je wat het doel en het resultaat van je project zijn. In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen. 
+
+Nu wordt het tijd om te kijken hoe het resultaat eruit zou kunnen zien. Dit is een belangrijk moment in het project.
+(Voor veel opdrachtgevers geldt dat ze nu pas duidelijk krijgen hoe het resultaat eruit zal zien. En dat is een moment waarop veel opdrachtgevers veel duidelijker kunnen aangeven wat ze wel en niet willen.)
+
+<details>
+<summary>Aanpak</summary>
+
+1. Schets in je boekje! (Wat wil je over jezelf vertellen? Waar ben je geboren? Waar woon je nu? Wat is je lievelingseten? Heb je een bijbaan? Zit je op een sport? Heb je ambities? Waar wil je goed in worden? Wat zou een leraar van je vorige school over jou vertellen? En wat zeggen je vrienden?)
+2. Bespreek je schets en ideeën met je squad en verzamel feedback
+3. Schets een een definitieve versie van je visitekaartje
+  
+<img width="856" alt="image" src="https://user-images.githubusercontent.com/1391509/132128256-8fde0aeb-d022-44bc-b666-563d6fb12f88.png">
+
+
+#### Materiaal ontwerpfase
+
+- Pen en papier.
+
+Over kleur, hoe te kiezen en toe te passen:
+- [Color: Theory and trends: uit LinkedInLearning cursus 'Design Aesthetics for the Web'](https://www.linkedin.com/learning/design-aesthetics-for-the-web/color-theory-and-trends?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56e050fb3dd5598244f16b21&u=2132228)
+- [The psychology of color in web design @ 99designs](https://en.99designs.nl/blog/creative-inspiration/psychology-color-web-design/)
+- [Web design color theory @ TNW](https://thenextweb.com/dd/2015/04/07/how-to-create-the-right-emotions-with-color-in-web-design/)
+
+Over het (Gebruik van) beeld en iconen
+- [How to use images more effectively in web design @ CreativeBloq](https://www.creativebloq.com/inspiration/how-to-use-images-more-effectively-in-web-design)
+- [Icons in web design @ Medium](https://medium.com/outcrowd/icons-in-web-design-824f57cb2db0)
+- [Unsplash: een website met rechtenvrije beelden](https://unsplash.com/)
+
+Over typografie, hoe te kiezen en te gebruiken:
+- [Choosing and Using Web Fonts](https://www.linkedin.com/learning/choosing-and-using-web-fonts/welcome?u=2132228)
+- [Typography for Developers @ CSS-tricks](https://css-tricks.com/typography-for-developers/)
+
+</details>
+
+### Bouwen
+In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
+
+Op basis van je ontwerpschets ga je bedenken hoe je je ontwerp in code kan bouwen. Je zet je project op in Github en kopieert de repository naar jouw computer. Je begint met de content in HTML, voegt CSS toe voor de vormgeving en JS voor de interactie. 
+
+
+<details>
+<summary>Aanpak</summary>
+
+#### HTML
+  
+Alle inhoud van een webpagina wordt vastgelegd in HTML. Neem de tijd voor deze stap en zorg dat je het HTML bestand begrijpt.
+
+1. Open het ```/index.html``` bestand in een editor.
+2. Op regel 13 staat een ```<h1>...</h1>``` element met de naam *Jane Doe*. Voer hier jouw eigen naam in.
+3. Op regel 14 staan ```<p><em>...</em></p>``` elementen met daarin de *titel* van Jane. Pas dit aan naar jouw eigen titel.
+4. Pas op dezelfde manier de vaardigheden op regels 38 en verder en het motto op regel 43 aan. 
+5. Je kunt als je wilt ook de icoontjes vervangen voor iets wat beter bij jouw past, gebruik daarvoor de [Unicode Character Table](https://unicode-table.com/en/).
+
+  
+#### Materiaal bouwfase HTML
+- [HTML semantics @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
+- [Overzicht van HTML elementen @ MDN](https://developer.mozilla.org/nl/docs/Web/HTML/Element)
+
+
+#### 2. (CSS)
+  
+Alle kleuren in een webpagina (achtergrond, tekst, randen, schaduwen etc) worden vastgelegd in CSS. Neem de tijd voor deze stap en zorg dat je het CSS bestand begrijpt. 
+
+  1. Open het ```/styles/style.css``` bestand in een editor. 
+  2. Op regel 24 en 25 wordt de achtergrondkleur vastgelegd in de regels:
+```
+background: rgb(0,239,255);
+background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
+```
+  De eerste waarde stelt een kleur in met RGB notatie. Voer de RGB waarde  voor jouw achtergrondkleur in. Als je het interessant vindt mag je proberen de gradient naar je hand te zetten ;)
+
+  3. Op regel 13 staat ```color: #10214e```, deze regel legt de normale tekstkleur van het bestand vast in hexadecimale notatie. Pas ook deze kleur aan naar jouw kleurenpalet.
+  4. Zoek het bestand verder door en zet alle ```background``` en ```color``` declaraties naar jouw hand.
+  5. In het bestand wordt ook de stijl bepaald van twee SVG afbeeldingen. De declaraties die hier voor gebruikt worden zijn ```stroke``` en ```fill```. Als je het tof vindt kan je ook die kleuren aanpassen aan jouw kleurenpalet!
+
+#### Materiaal bouwfase (CSS)
+- [CSS Almanac @ CSS-tricks](https://css-tricks.com/almanac/)
+- [A Guide to flexbox @ CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [What the flexbox? @ Wes Bos](https://flexbox.io/)
+- [CSS Typography - Change Font, Size, Spacing & more @ YouTube](https://www.youtube.com/watch?v=RNakAX3rVVw)
+- [CSS Transitions and Animations 101 @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
+
+
+#### 3. JS
+  
+De interactie op de pagina wordt bepaald door Javascript (JS). Neem de tijd voor deze stap en zorg dat je het JS bestand begrijpt. Als je nog nooit iets met JSS zelf hebbt gedaan, bekijk dan met een klasgenoot de code, misschien kan hij of zij je uitleggen wat er gebeurt. 
+
+  1. Open het ```/script/script.js``` bestand in een editor. 
+  2. Schrijf achter elke regel wat die doet.
+  3. Heb je zelf ook een interactie bedacht voor je visitekaartje? Hoe zou je dat kunnen maken?
+
+#### Materiaal bouwfase JS
+
+- [One thing about JavaScript @ CSS-tricks](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
+
+
+</details>
+
+### Integreren
+*In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
+
+<details>
+<summary>Aanpak</summary>
+
+1. {geef de stappen}
+2. {die in deze fase}
+3. {doorlopen worden}
+
+#### Materiaal integratiefase
+
+- [Resource](https://example.com)
+- [Resource](https://example.com)
+- [Resource](https://example.com)
+
+</details>
+
+### Testen
+*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
+
+<details>
+<summary>Aanpak</summary>
+
+1. {geef de stappen}
+2. {die in deze fase}
+3. {doorlopen worden}
+
+#### Materiaal testfase
+
+- [Resource](https://example.com)
+- [Resource](https://example.com)
+- [Resource](https://example.com)
+
+</details>
+
+
+
+
+
+
 
 
 
@@ -39,37 +194,8 @@ Hieronder vind je een aantal bronnen die je kunt gebruiken bij het maken van ont
 <details>
 <summary>Bronnen</summary>
   
-### Over Kleur
-Over kleur, hoe te kiezen en toe te passen:
-- [Color: Theory and trends: uit LinkedInLearning cursus 'Design Aesthetics for the Web'](https://www.linkedin.com/learning/design-aesthetics-for-the-web/color-theory-and-trends?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56e050fb3dd5598244f16b21&u=2132228)
-- [The psychology of color in web design @ 99designs](https://en.99designs.nl/blog/creative-inspiration/psychology-color-web-design/)
-- [Web design color theory @ TNW](https://thenextweb.com/dd/2015/04/07/how-to-create-the-right-emotions-with-color-in-web-design/)
-
-### (Gebruik van) beeld en iconen
-- [How to use images more effectively in web design @ CreativeBloq](https://www.creativebloq.com/inspiration/how-to-use-images-more-effectively-in-web-design)
-- [Icons in web design @ Medium](https://medium.com/outcrowd/icons-in-web-design-824f57cb2db0)
-- [Unsplash: een website met rechtenvrije beelden](https://unsplash.com/)
-
-### Typografie
-
-Over typografie, hoe te kiezen en te gebruiken:
-- [Choosing and Using Web Fonts](https://www.linkedin.com/learning/choosing-and-using-web-fonts/welcome?u=2132228)
-- [Typography for Developers @ CSS-tricks](https://css-tricks.com/typography-for-developers/)
 
 
-### HyperText Markup Language (HTML)
-- [HTML semantics @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
-- [Overzicht van HTML elementen @ MDN](https://developer.mozilla.org/nl/docs/Web/HTML/Element)
-
-### Cascading StyleSheets (CSS)
-- [CSS Almanac @ CSS-tricks](https://css-tricks.com/almanac/)
-- [A Guide to flexbox @ CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [What the flexbox? @ Wes Bos](https://flexbox.io/)
-- [CSS Typography - Change Font, Size, Spacing & more @ YouTube](https://www.youtube.com/watch?v=RNakAX3rVVw)
-- [CSS Transitions and Animations 101 @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
-
-### Javascript
-- [One thing about JavaScript @ CSS-tricks](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
 
 ### Tools
 - [Chrome Dev Tools Elements Tab @ YouTube](https://www.youtube.com/watch?v=Z3HGJsNLQ1E)
@@ -85,75 +211,11 @@ WERKWIJZE
 
 
 
-### Analyseren
-*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren en formuleer je een aantal uitgangspunten waar je ontwerp aan moet voldoen.* 
-
-Voor het uitvoeren van deze taak nemen we een aantal stappen, we gaan:
-1. een aantal ontwerpbeslissingen nemen op basis van de uitleg
-2. die beslissingen inbouwen in het bestaande visitekaartje
-3. jouw visitekaartje publiceren via Github pages
-4. het visitekaartje testen op klasgenoten
-5. het proces documenteren in de [README.md](../README.md)
-
----
-
-### Ontwerpen
-*In de ontwerpfase maak je meerdere ontwerpen (divergeren) en neem je vervolgens beslissingen (convergeren) op basis van de door jou geformuleerde uitgangspunten. Je zorgt je dat je precies weet wat je moet gaan bouwen.*
-
-Je hebt een talk bijgewoond en/of bovenstaande artikelen over [kleur en beeld](#kleur-en-beeld) gelezen. Om straks op een goede manier te werk te kunnen gaan is het handig om eerst te inventariseren welke uitgangspunten je wilt gebruiken voor het ontwerpen en ontwikkelen van jouw eigen visitekaartje. 
-
-Pak een A4 en maak een aantal schetsen aan de hand van het template. Bedenk welke elementen iets over jou zeggen en die je in jouw visitekaartje wilt verwerken, bijvoorbeeld je naam, je dromen, je ambitie, je kwaliteiten, je skills of je passie.
-Maak verschillende variaties waarbij je de elementen steeds anders positioneert. 
-Bekijk welke compositie jij het meest vindt passen bij wat je over jezelf wil vertellen.
-
-Begin met het vastleggen van de kleur(en) die je wilt gaan gebruiken. Beschrijf daarbij waarom juist die kleur(en). Kies je lievelingskleur en maak aan de hand daarvan een kleurenschema via [Adobe Color](https://color.adobe.com/).
-
-Bepaal nu of je een afbeelding op jouw visitekaartje wilt opnemen. Wordt het een échte foto of een avatar? Of een foto waarin je iets minder herkenbaar in beeld komt? Welk beeld moeten bezoekers van jou hebben na het bekijken van jouw online visitekaartje?
-
-Bepaal welk(e) lettertype(n) je wilt gebruiken. Maak een lijstje met vijf lettertypes die passen bij jouw persoonlijkheid, kies deze via [https://fonts.google.com/](https://fonts.google.com/).  Je weet nog niet hoe het lettertype combineert met jouw afbeelding en de kleuren dus het is fijn als je een paar opties hebt.
-
-Bepaal tenslotte een titel en een korte introductietekst voor je visitekaartje. De titel is de rol die je jezelf toebedeelt op internet, het kan serieus maar ook grappig zijn. Bedenk hoe je wilt overkomen op bezoekers van jouw visitekaartje. De introductietekst bevat een kort motto. Wat vind jij belangrijk?
-
-Na bovenstaande stappen zorgvuldig doorlopen te hebben weet je ongeveer wat je gaat bouwen. Je kunt nu goed voorbereid door naar de volgende fase.
-
----
 
 ### Bouwen
 *In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
 
-#### HTML
-Alle inhoud van een webpagina wordt vastgelegd in HTML. Neem de tijd voor deze stap en zorg dat je het HTML bestand begrijpt.
 
-Open het ```/index.html``` bestand in een editor.
-
-Op regel 13 staat een ```<h1>...</h1>``` element met de naam *Jane Doe*. Voer hier jouw eigen naam in.
-
-Op regel 14 staan ```<p><em>...</em></p>``` elementen met daarin de *titel* van Jane. Pas dit aan naar jouw eigen titel.
-
-Pas op dezelfde manier de vaardigheden op regels 38 en verder en het motto op regel 43 aan. 
-
-NB: Je kunt als je wilt ook de icoontjes vervangen voor iets wat beter bij jouw past, gebruik daarvoor de [Unicode Character Table](https://unicode-table.com/en/).
-
-#### CSS
-Alle kleuren in een webpagina (achtergrond, tekst, randen, schaduwen etc) worden vastgelegd in CSS. Neem de tijd voor deze stap en zorg dat je het CSS bestand begrijpt. 
-
-Open het ```/styles/style.css``` bestand in een editor. 
-
-Op regel 24 en 25 wordt de achtergrondkleur vastgelegd in de regels:
-```
-background: rgb(0,239,255);
-background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
-```
-De eerste waarde stelt een kleur in met RGB notatie. Eerder heb je in [coolors.co](https://coolors.co/) kleuren uitgekozen. Voer de RGB waarde voor jouw achtergrondkleur in. Als je het interessant vindt mag je proberen de gradient naar je hand te zetten ;)
-
-Op regel 13 staat ```color: #10214e```, deze regel legt de normale tekstkleur van het bestand vast in hexadecimale notatie. Pas ook deze kleur aan naar jouw kleurenpalet.
-
-Zoek het bestand verder door en zet alle ```background``` en ```color``` declaraties naar jouw hand.
-
-NB: In het bestand wordt ook de stijl bepaald van twee SVG afbeeldingen. De declaraties die hier voor gebruikt worden zijn ```stroke``` en ```fill```. Als je het tof vindt kan je ook die kleuren aanpassen aan jouw kleurenpalet!
-
-#### Variaties
-Maak aan de hand van jouw schets, jouw kleurenschema en jouw gekozen lettertypes 10 variaties op jouw visitekaartje. Doe dat door de stappen bij CSS hierboven meerdere malen te doorlopen. Maak elke keer een schermafdruk (screenshot) van de verschillende versies. Kies uiteindelijk die versie die het beste bij jouw uitgangspunten past.
 
 #### Materiaal bouwfase
 
