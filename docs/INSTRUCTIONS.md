@@ -101,7 +101,8 @@ Alle inhoud van een webpagina wordt vastgelegd in HTML. Neem de tijd voor deze s
 2. Op regel 13 staat een ```<h1>...</h1>``` element met de naam *Jane Doe*. Voer hier jouw eigen naam in.
 3. Op regel 14 staan ```<p><em>...</em></p>``` elementen met daarin de *titel* van Jane. Pas dit aan naar jouw eigen titel.
 4. Pas op dezelfde manier de vaardigheden op regels 38 en verder en het motto op regel 43 aan. 
-5. Je kunt als je wilt ook de icoontjes vervangen voor iets wat beter bij jouw past, gebruik daarvoor de [Unicode Character Table](https://unicode-table.com/en/).
+5. In het voorbeeld staat een foto in het ```<img>``` element. Verander d t met jouw mugshot foto.
+6. Je kunt als je wilt ook de icoontjes vervangen voor iets wat beter bij jouw past, gebruik daarvoor de [Unicode Character Table](https://unicode-table.com/en/).
 
   
 #### Materiaal bouwfase HTML
